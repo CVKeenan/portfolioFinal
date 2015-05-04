@@ -1,7 +1,7 @@
 header{
   font-size: 60px;
   font-family: 'Homemade Apple', cursive;
-  color: red;
+  color: #FC1919;
   margin-bottom: 0px;
   margin-left: 100px;
   }
@@ -14,7 +14,7 @@ header{
 }
 
 nav a{
-  color: #DE3C3B;
+  color: #B80202;
   margin: 50px;
   width: 70px;
   text-align: center;
@@ -23,15 +23,16 @@ nav a{
 nav{
   margin: 20px;
   text-align: center;
+  background-color: #23282D;
 }
 
 h1{
   font-family: 'Bilbo Swash Caps', cursive;
-  color: #F74C50;
+  color: #D90202;
   font-size: 40px;
   padding: 0;
   font-weight: normal;
-  margin-left: 20px;
+  margin-left: -15px;
   margin-bottom: 0px;
 }
 
@@ -47,18 +48,19 @@ h2 a{
 }
 
 body{
-  background-color: #FFEAC3;
+  background-color: #383B3C;
   font-family: 'Josefin Sans', sans-serif;
-  color: #444733;
+  color: #606666;
 }
 
 #textWords{
-  border: 1px solid black;
+  border: 1px solid white;
   margin-left: 50px;
   margin-right: 50px;
   margin-top: 0px;
   padding: 29px;
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 10px;
   font-size: 18px;
+  background-color: #FFFDFD;
 }
