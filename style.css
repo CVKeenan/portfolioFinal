@@ -1,0 +1,64 @@
+header{
+  font-size: 60px;
+  font-family: 'Homemade Apple', cursive;
+  color: red;
+  margin-bottom: 0px;
+  margin-left: 100px;
+  }
+
+#navLinks{
+  font-family: 'Amatic SC', cursive;
+  font-size: 24px;
+  color: #bb501a;
+  text-align: center;
+}
+
+nav a{
+  color: #DE3C3B;
+  margin: 50px;
+  width: 70px;
+  text-align: center;
+}
+
+nav{
+  margin: 20px;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Bilbo Swash Caps', cursive;
+  color: #F74C50;
+  font-size: 40px;
+  padding: 0;
+  font-weight: normal;
+  margin-left: 20px;
+  margin-bottom: 0px;
+}
+
+h2{
+  font-family: 'Bad Script', cursive;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  color: #FC8639;
+}
+
+h2 a{
+  color: #FC8639;
+}
+
+body{
+  background-color: #FFEAC3;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #444733;
+}
+
+#textWords{
+  border: 1px solid black;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 0px;
+  padding: 29px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  font-size: 18px;
+}
