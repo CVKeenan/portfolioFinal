@@ -11,19 +11,23 @@ header{
   font-size: 24px;
   color: #bb501a;
   text-align: center;
+
 }
 
 nav a{
+  width: 100%;
   color: #B80202;
   margin: 50px;
-  width: 70px;
   text-align: center;
 }
 
 nav{
-  margin: 20px;
-  text-align: center;
-  background-color: #23282D;
+    text-align: center;
+    background-color: #23282D;
+    margin-bottom: 15px;
+    margin-left: -10px;
+    margin-right: -10px;
+
 }
 
 h1{
