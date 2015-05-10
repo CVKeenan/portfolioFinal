@@ -8,6 +8,7 @@ header{
   margin-left: -10px;
   background-color: #242D36;
   padding-bottom: 5px;
+
 }
 
 #headerText{
@@ -29,6 +30,10 @@ nav a{
   text-align: center;
 }
 
+nav a.current {
+    color: #F45145;
+}
+
 nav{
     text-align: center;
     background-color: #1C232B;
@@ -37,7 +42,8 @@ nav{
     margin-right: -10px;
     margin-top: 5px;
     margin-bottom: 5px;
-    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 
 }
 
@@ -107,3 +113,25 @@ body{
 #navSocialRight{
   float: right;
 }
+
+#headerLogo{
+  text-align: right;
+  margin-top: -100px;
+  margin-bottom: -50px;
+  margin-right: 80px;
+  max-height: 50px;
+}
+
+#headerLogo2{
+  text-align: left;
+  margin-top: 0px;
+  margin-bottom: -50px;
+  margin-left: 80px;
+
+}
+
+
+
+/* selected link */
+a:active {
+    color: #75EEF7;
