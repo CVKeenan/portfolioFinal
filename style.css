@@ -1,39 +1,50 @@
 header{
   font-size: 60px;
   font-family: 'Homemade Apple', cursive;
-  color: #FC1919;
-  margin-bottom: 0px;
-  margin-left: 100px;
-  }
+  color: #F13728;
+  margin-bottom: -10px;
+  margin-top: -10px;
+  margin-right: -10px;
+  margin-left: -10px;
+  background-color: #242D36;
+  padding-bottom: 5px;
+}
+
+#headerText{
+  background-color: #242D36;
+  text-align: center;
+}
 
 #navLinks{
   font-family: 'Amatic SC', cursive;
-  font-size: 24px;
-  color: #bb501a;
+  font-size: 30px;
   text-align: center;
 
 }
 
 nav a{
   width: 100%;
-  color: #B80202;
-  margin: 50px;
+  color: #F77E75;
+  margin: 40px;
   text-align: center;
 }
 
 nav{
     text-align: center;
-    background-color: #23282D;
+    background-color: #1C232B;
     margin-bottom: 15px;
     margin-left: -10px;
     margin-right: -10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 5px;
 
 }
 
 h1{
-  font-family: 'Bilbo Swash Caps', cursive;
-  color: #D90202;
-  font-size: 40px;
+  font-family: 'Parisienne', cursive;
+  color: #F45145;
+  font-size: 48px;
   padding: 0;
   font-weight: normal;
   margin-left: -15px;
@@ -41,18 +52,20 @@ h1{
 }
 
 h2{
-  font-family: 'Bad Script', cursive;
+  font-family: 'Bilbo', cursive;
+  font-weight: normal;
   margin-bottom: 0px;
   margin-top: 0px;
-  color: #FC8639;
+  font-size: 35px;
+  margin-left: 20px;
 }
 
 h2 a{
-  color: #FC8639;
+  color: #F47D45;
 }
 
 body{
-  background-color: #383B3C;
+  background-color: #F0F1F3;
   font-family: 'Josefin Sans', sans-serif;
   color: #606666;
 }
@@ -61,10 +74,36 @@ body{
   border: 1px solid white;
   margin-left: 50px;
   margin-right: 50px;
-  margin-top: 0px;
+  margin-top: 20px;
   padding: 29px;
   padding-top: 0px;
   padding-bottom: 10px;
   font-size: 18px;
-  background-color: #FFFDFD;
+  background-color: #FFFFFF;
+  border-top: 5px solid #F45145;
+}
+
+#portfolioLinks{
+  border: 1px solid white;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-top: 20px;
+  padding: 29px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  font-size: 18px;
+  background-color: #FFFFFF;
+  border-top: 5px solid #B1E8E6;
+}
+
+#portDescribe{
+  margin-left: 35px;
+}
+
+#navSocialLeft{
+  float: left;
+}
+
+#navSocialRight{
+  float: right;
 }
